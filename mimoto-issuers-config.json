@@ -16,12 +16,12 @@
           "language": "en"
         }
       ],
-      "client_id": "wallet-demo",
+      "client_id": "IIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiB0rw",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "token_endpoint": "https://unichainapi-internal.hirekarma.in/v1/mimoto/get-token/Farmer",
-      "authorization_audience": "https://esignet-mock.collab.mosip.net/v1/esignet/oauth/v2/token",
-      "proxy_token_endpoint": "https://esignet-mock.collab.mosip.net/v1/esignet/oauth/v2/token",
-      "client_alias": "wallet-demo-client",
+      "authorization_audience": "https://unichainapi-internal.hirekarma.in/v1/esignet/oauth/v2/token",
+      "proxy_token_endpoint": "https://unichainapi-internal.hirekarma.in/v1/esignet/oauth/v2/token",
+      "client_alias": "IIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiB0rw",
       "qr_code_type": "EmbeddedVC",
       "enabled": "true",
       "wellknown_endpoint": "https://unichaininjicertify.hirekarma.in/.well-known/openid-credential-issuer"
@@ -42,12 +42,12 @@
           "language": "en"
         }
       ],
-      "client_id": "wallet-demo",
+      "client_id": "IIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiB0rw",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "token_endpoint": "https://unichainapi-internal.hirekarma.in/v1/mimoto/get-token/MockMdl",
-      "authorization_audience": "https://esignet-mock.collab.mosip.net/v1/esignet/oauth/v2/token",
-      "proxy_token_endpoint": "https://esignet-mock.collab.mosip.net/v1/esignet/oauth/v2/token",
-      "client_alias": "wallet-demo-client",
+      "authorization_audience": "https://unichainapi-internal.hirekarma.in/v1/esignet/oauth/v2/token",
+      "proxy_token_endpoint": "https://unichainapi-internal.hirekarma.in/v1/esignet/oauth/v2/token",
+      "client_alias": "IIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiB0rw",
       "qr_code_type": "EmbeddedVC",
       "enabled": "true",
       "wellknown_endpoint": "https://unichaininjicertify.hirekarma.in/.well-known/openid-credential-issuer"
